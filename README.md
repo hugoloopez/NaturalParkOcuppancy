@@ -10,12 +10,25 @@ Este estudio se centra en el **Parque Natural de Torrevieja**, utilizando múlti
 ✔ **Predecir la cantidad de visitantes** en función de variables como clima, hora del día y eventos.  
 ✔ **Optimizar la gestión del parque** mediante datos en tiempo real.  
 ✔ **Promover la conservación ecológica** evitando la sobreexplotación del entorno.  
-✔ **Aplicar técnicas de Machine Learning** y análisis de datos en la gestión de espacios naturales.  
+✔ **Aplicar técnicas de Machine Learning** y análisis de datos en la gestión de espacios naturales. 
 
 ## 🏗️ Tecnologías Utilizadas
 🚀 **Lenguajes y Herramientas**  
 - Python 🐍  
 - Jupyter Notebook 📒  
 - Pandas y NumPy para el análisis de datos 📊  
-- Sensores IoT para recopilación de datos en el parque 🌍  
+- Sensores IoT para recopilación de datos en el parque 🌍
+
+## 📝 Datos Utilizados
+Este proyecto combina diversas fuentes de datos para generar predicciones precisas:
+
+1. **Datos de Ocupación ([CHAN TWIN](https://smartcitycluster.org/project/sensing-tools-chan-twin/))** 📊  
+   - Datos históricos sobre la cantidad de visitantes en el parque.
+
+2. **Datos Meteorológicos ([Proyecto Mastral](https://www.eltiempoentorrevieja.es/))** 🌦️  
+   - Registros de temperatura, humedad, velocidad del viento y precipitaciones.
+
+3. **Datos de Fauna ([eBird](https://ebird.org))** 🐦  
+   - Observaciones de aves en el parque registradas.  
+
 
