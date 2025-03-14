@@ -5,7 +5,7 @@
 El crecimiento urbano y el auge de las **Smart Cities** han generado nuevos desafíos en la gestión de áreas naturales protegidas. La masificación en parques naturales puede afectar negativamente a los ecosistemas locales. Este proyecto busca mitigar estos efectos analizando los patrones de visitantes y optimizando la asistencia a parques mediante **modelos predictivos basados en datos abiertos y sensores IoT**.
 
 Este estudio se centra en el **Parque Natural de Torrevieja**, utilizando múltiples fuentes de datos para desarrollar una herramienta en tiempo real que ayude a gestionar la afluencia de visitantes, promoviendo un **turismo sostenible**.
-[![Ver en Google Maps](https://upload.wikimedia.org/wikipedia/commons/e/ec/Google_Maps_Logo.svg)](https://www.google.com/maps/place/Parque+Natural+de+las+Lagunas+de+La+Mata+y+Torrevieja/)
+
 ## 📊 Objetivos del Proyecto
 ✔ **Predecir la cantidad de visitantes** en función de variables como clima, hora del día y eventos.  
 ✔ **Optimizar la gestión del parque** mediante datos en tiempo real.  
