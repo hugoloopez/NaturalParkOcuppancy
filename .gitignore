@@ -1,0 +1,25 @@
+# Ignorar archivos .env
+.env
+.env.*
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+.env/
+.venv/
+env/
+
+# Archivos de configuración de Jupyter
+.ipynb_checkpoints
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
