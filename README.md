@@ -37,7 +37,7 @@ Este proyecto está estructurado para facilitar la recolección, tratamiento y m
 
 - En la carpeta `utils/` se encuentra el script **`data_downloader.py`**, encargado de **descargar los datos desde la API de Sensing Tools (CHAN TWIN)**, automatizando el acceso a información actualizada sobre la ocupación del parque.
 
-- El archivo **`obtencion_y_tratamiento_de_datos.ipynb`** contiene el desarrollo completo del proceso de **preparación y limpieza de los datos**, integrando múltiples fuentes para su posterior análisis y modelado.
+- El archivo **`obtencion_y_tratamiento_de_datos.ipynb`** contiene el desarrollo completo del proceso de **preparación, limpieza de los datos además del entrenamiento de modelos**.
 
 - En la carpeta **`data/`** se encuentran los **datos concretos descargados y utilizados** en este trabajo, listos para su análisis.
 
