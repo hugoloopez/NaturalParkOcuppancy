@@ -31,4 +31,16 @@ Este proyecto combina diversas fuentes de datos para generar predicciones precis
 3. **Datos de Fauna ([eBird](https://ebird.org))** 🐦  
    - Observaciones de aves en el parque registradas.  
 
+## ▶️ Cómo funciona
+
+Este proyecto está estructurado para facilitar la recolección, tratamiento y modelado de datos relacionados con la ocupación del Parque Natural de Torrevieja:
+
+- En la carpeta `utils/` se encuentra el script **`data_downloader.py`**, encargado de **descargar los datos desde la API de Sensing Tools (CHAN TWIN)**, automatizando el acceso a información actualizada sobre la ocupación del parque.
+
+- El archivo **`obtencion_y_tratamiento_de_datos.ipynb`** contiene el desarrollo completo del proceso de **preparación y limpieza de los datos**, integrando múltiples fuentes para su posterior análisis y modelado.
+
+- En la carpeta **`data/`** se encuentran los **datos concretos descargados y utilizados** en este trabajo, listos para su análisis.
+
+- Para poder ejecutar correctamente el código, es necesario crear un archivo **`.env`** con la variable de entorno **`TIMEGPT_API_KEY`**. Puedes usar el archivo **`.env_sample`** como referencia para conocer el formato y las claves requeridas.
+
 
